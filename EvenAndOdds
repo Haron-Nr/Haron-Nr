@@ -1,0 +1,10 @@
+import java.util.Arrays;
+
+public class EvenAndOdds 
+{
+    public static void main (String[] args)
+    {
+        int numbers = (int)(Math.random() * 100) + 0;
+        
+    }
+}
